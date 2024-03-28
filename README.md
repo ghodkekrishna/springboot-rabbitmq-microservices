@@ -1,0 +1,1 @@
+Springboot RabbitMQ microservice.
